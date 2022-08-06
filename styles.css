@@ -1,0 +1,32 @@
+ul {
+    color: green;
+    font-weight: bold;
+    font-family: 'Times New Roman', 'sans-serif';
+}
+
+ol {
+    color: red;
+    font-family: 'Times New Roman', 'sans-serif';
+}
+
+.steps {
+    background-color: blueviolet;
+}
+
+.ingredients {
+    background-color: brown;
+}
+
+.description {
+    background-color: darkolivegreen;
+}
+
+#title {
+    color: white;
+    background-color: black;
+}
+
+.recipe {
+    background-color: maroon;
+    color: white;
+}
